@@ -35000,7 +35000,7 @@
       "thumbnailUrl": "https://via.placeholder.com/150/6dd9cb"
     }
 
-    "service":{
+    "services":[
          {
       "serviceId": s1,
       "id": 10,
@@ -35022,5 +35022,5 @@
       "url": "https://via.placeholder.com/600/1b9d08",
       "thumbnailUrl": "https://via.placeholder.com/150/1b9d08"
     },
-    }
+   ]
   ]
